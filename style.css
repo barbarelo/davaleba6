@@ -87,3 +87,100 @@ h2:before{
     top: 4580px;
     /* text-transform: uppercase; */
 }
+section.bolo-gverdi{
+    background-color: blue;
+    width: 100%;
+}
+div.kontaqti{
+    padding: 40px;
+    border: 30px;
+    width: 40%;
+    height: 100%;
+    display: inline-block;
+    color: white;
+    text-align: left;
+    left: 240px;
+}
+.kontaqti h4{
+    padding: 30px 0;
+    border: 20px;
+    text-align:left;
+    font-size: 30px;
+    color: white;
+    margin: 20px;
+}
+div.ruka{
+    display: block;
+    left: 240px;
+    padding: 30px;
+    border: 40px;
+}
+div.call{
+    left: 240px;
+    padding: 30px;
+    border: 40px;
+    color: white;
+    display: inline-block;
+}
+.class h4{
+    right: 200px;
+}
+div.mail{
+    left: 340px;
+    padding: 30px;
+    border: 40px;
+    color: white;
+    display: inline-block;
+}
+form{
+    left: 400px;
+    padding: 100px;
+    border: 30px;
+    display: inline-block;
+    right: 20%;
+    height: 100%;
+    /* margin: 30px; */
+    /* padding: 70px;
+    right:20px;
+    border: 60px;
+    width: 15%;
+    height: 100%; */
+    display: inline-block;
+    margin: 20px;
+}
+footer{
+    background-color: blue;
+}
+div.boloa{
+    /* right: 400px; */
+    /* right:0px; */
+    width: 26px;
+    height: 26px;
+    border: 3px;
+    padding: 10px;
+    text-align: right;
+    /* position: absolute; */
+    /* background-color: blue; */
+    display: inline-block;
+}
+.agarvar{
+    width: 26px;
+    height: 16px;
+    border: 3px;
+    padding-right: 12px;
+    text-align: right;
+    display: inline-block;
+}
+.mishvelet{
+    right: 121px;
+    height: 35px;
+    display: inline-block;
+    /* top: 6467px;
+    left: 1558px; */
+}
+.zeda-warwera{
+    width: 106px;
+    height: 16px;
+    /* left: 1345px;
+    display: inline-block; */
+}
